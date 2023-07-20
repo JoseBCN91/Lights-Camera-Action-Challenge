@@ -22,7 +22,7 @@ We use linear regression as our model to predict the IMDB scores directly. Regre
 
 ## Evaluation
 
-The performance of the model is evaluated using regression metrics, including MAE and R^2 score, on the validation set, as well as an f1-macro on the test set.
+The performance of the model is evaluated using regression metrics, including MAE and RMAE, on the validation set, as well as an f1-macro on the test set.
 
 Happy coding! 🚀🎬
 
