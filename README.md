@@ -1,4 +1,4 @@
-# Lights, Camera, Action Challenge 🌟🎥
+# Lights, Camera, Action Challenge 🎥
 
 Welcome to the Lights, Camera, Action Challenge! This project is a thrilling competition where we dive into the world of movies and TV shows, predicting the IMDB scores like seasoned film critics.
 
